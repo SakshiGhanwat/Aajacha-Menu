@@ -9,9 +9,12 @@ Codies Mess is a smart meal planning and mess management platform that helps use
 Meal planning can often be stressful due to lack of time and ideas. Codies Mess solves this by:
 
 Simplifying daily meal planning for users
+
 Providing diverse and healthy meal options
+
 Helping mess owners and hotels manage and expand their business
-Reducing mealtime confusion with smart suggestions
+
+Reducing mealtime confusion with smart suggestions:
 🚀 Features
 👨‍🍳 For Users:
 🍽️ Easy meal planning system
